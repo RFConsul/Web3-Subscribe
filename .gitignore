@@ -1,0 +1,7 @@
+node_modules
+.env
+build/
+.soliumignore
+.soliumrc.json
+LICENSE
+package.json
